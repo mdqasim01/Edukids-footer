@@ -1,1 +1,1 @@
-# footer
+# Edikids-footer
